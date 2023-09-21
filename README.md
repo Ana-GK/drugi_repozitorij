@@ -1,5 +1,3 @@
-En drug stavek.
-
 #
 
 Vrinjen stavek.
